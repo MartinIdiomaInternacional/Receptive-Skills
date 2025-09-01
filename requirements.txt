@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-librosa
-numpy==1.23.5
-torch
-torchaudio
-soundfile
