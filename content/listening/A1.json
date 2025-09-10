@@ -1,0 +1,95 @@
+[
+  {
+    "testlet_id": "l-a1-01",
+    "audio_url": "/media/listening/a1/l-a1-01.wav",
+    "tags": [
+      "gist"
+    ],
+    "items": [
+      {
+        "id": "l-a1-01-q1",
+        "type": "mcq",
+        "prompt": "What is the main topic?",
+        "options": [
+          "Costs",
+          "Timeline",
+          "Quality",
+          "Staffing"
+        ],
+        "answer_index": 1,
+        "rationale": "",
+        "irt": {
+          "model": "3PL",
+          "a": 1.0,
+          "b": -2.0,
+          "c": 0.2
+        },
+        "tags": [
+          "gist"
+        ]
+      }
+    ]
+  },
+  {
+    "testlet_id": "l-a1-02",
+    "audio_url": "/media/listening/a1/l-a1-02.wav",
+    "tags": [
+      "detail"
+    ],
+    "items": [
+      {
+        "id": "l-a1-02-q1",
+        "type": "mcq",
+        "prompt": "What key point did the speaker confirm?",
+        "options": [
+          "Confirm delay",
+          "Confirm budget",
+          "Confirm vendor",
+          "Confirm cancel"
+        ],
+        "answer_index": 0,
+        "rationale": "",
+        "irt": {
+          "model": "3PL",
+          "a": 1.0,
+          "b": -2.0,
+          "c": 0.2
+        },
+        "tags": [
+          "detail"
+        ]
+      }
+    ]
+  },
+  {
+    "testlet_id": "l-a1-03",
+    "audio_url": "/media/listening/a1/l-a1-03.wav",
+    "tags": [
+      "inference"
+    ],
+    "items": [
+      {
+        "id": "l-a1-03-q1",
+        "type": "mcq",
+        "prompt": "What best describes the speaker’s tone?",
+        "options": [
+          "Optimistic",
+          "Neutral",
+          "Concerned",
+          "Dismissive"
+        ],
+        "answer_index": 2,
+        "rationale": "",
+        "irt": {
+          "model": "3PL",
+          "a": 1.0,
+          "b": -2.0,
+          "c": 0.2
+        },
+        "tags": [
+          "inference"
+        ]
+      }
+    ]
+  }
+]

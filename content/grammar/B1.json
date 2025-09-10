@@ -1,0 +1,71 @@
+[
+  {
+    "id": "g-b1-01",
+    "type": "mcq",
+    "prompt": "Choose the correct conditional: If it ___ tomorrow, we’ll cancel the trip.",
+    "options": [
+      "rains",
+      "rained",
+      "has rained",
+      "is raining"
+    ],
+    "answer_index": 0,
+    "rationale": "",
+    "irt": {
+      "model": "3PL",
+      "a": 1.0,
+      "b": -0.8,
+      "c": 0.2
+    },
+    "tags": [
+      "meaning",
+      "usage",
+      "conditionals"
+    ]
+  },
+  {
+    "id": "g-b1-02",
+    "type": "mcq",
+    "prompt": "Reported speech: He said he ___ late.",
+    "options": [
+      "will be",
+      "was",
+      "is",
+      "has been"
+    ],
+    "answer_index": 1,
+    "rationale": "",
+    "irt": {
+      "model": "3PL",
+      "a": 1.0,
+      "b": -0.8,
+      "c": 0.2
+    },
+    "tags": [
+      "usage"
+    ]
+  },
+  {
+    "id": "g-b1-03",
+    "type": "mcq",
+    "prompt": "Phrasal verb: We need to ___ the meeting (postpone).",
+    "options": [
+      "put out",
+      "put off",
+      "put on",
+      "put up"
+    ],
+    "answer_index": 1,
+    "rationale": "",
+    "irt": {
+      "model": "3PL",
+      "a": 1.0,
+      "b": -0.8,
+      "c": 0.2
+    },
+    "tags": [
+      "usage",
+      "meaning"
+    ]
+  }
+]

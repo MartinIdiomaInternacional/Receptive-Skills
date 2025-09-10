@@ -1,0 +1,95 @@
+[
+  {
+    "testlet_id": "r-c1-01",
+    "passage": "While the authors articulate a compelling thesis, countervailing evidence undercuts some causal claims.",
+    "tags": [
+      "main-idea"
+    ],
+    "items": [
+      {
+        "id": "r-c1-01-q1",
+        "type": "mcq",
+        "prompt": "What is the main idea?",
+        "options": [
+          "Her job is varied and involves communication.",
+          "She writes long reports every day.",
+          "She manages a large team.",
+          "She travels frequently."
+        ],
+        "answer_index": 0,
+        "rationale": "",
+        "irt": {
+          "model": "3PL",
+          "a": 1.0,
+          "b": 1.3,
+          "c": 0.2
+        },
+        "tags": [
+          "main-idea"
+        ]
+      }
+    ]
+  },
+  {
+    "testlet_id": "r-c1-02",
+    "passage": "While the authors articulate a compelling thesis, countervailing evidence undercuts some causal claims.",
+    "tags": [
+      "detail"
+    ],
+    "items": [
+      {
+        "id": "r-c1-02-q1",
+        "type": "mcq",
+        "prompt": "Which fact is supported by the passage?",
+        "options": [
+          "The meeting was moved to Friday.",
+          "All members attended on time.",
+          "The meeting was canceled.",
+          "It was moved due to a holiday."
+        ],
+        "answer_index": 0,
+        "rationale": "",
+        "irt": {
+          "model": "3PL",
+          "a": 1.0,
+          "b": 1.3,
+          "c": 0.2
+        },
+        "tags": [
+          "detail"
+        ]
+      }
+    ]
+  },
+  {
+    "testlet_id": "r-c1-03",
+    "passage": "While the authors articulate a compelling thesis, countervailing evidence undercuts some causal claims.",
+    "tags": [
+      "vocab-in-context"
+    ],
+    "items": [
+      {
+        "id": "r-c1-03-q1",
+        "type": "mcq",
+        "prompt": "In context, the phrase most nearly means:",
+        "options": [
+          "increasing prices",
+          "initial signs",
+          "firm evidence",
+          "marketing spend"
+        ],
+        "answer_index": 1,
+        "rationale": "",
+        "irt": {
+          "model": "3PL",
+          "a": 1.0,
+          "b": 1.3,
+          "c": 0.2
+        },
+        "tags": [
+          "vocab-in-context"
+        ]
+      }
+    ]
+  }
+]

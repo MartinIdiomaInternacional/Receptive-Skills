@@ -1,0 +1,69 @@
+[
+  {
+    "id": "g-b1+-01",
+    "type": "mcq",
+    "prompt": "Relative clause: The person ___ called you is my manager.",
+    "options": [
+      "which",
+      "who",
+      "whom",
+      "that it"
+    ],
+    "answer_index": 1,
+    "rationale": "",
+    "irt": {
+      "model": "3PL",
+      "a": 1.0,
+      "b": -0.3,
+      "c": 0.2
+    },
+    "tags": [
+      "form-accuracy"
+    ]
+  },
+  {
+    "id": "g-b1+-02",
+    "type": "mcq",
+    "prompt": "Choose best collocation: ___ a decision.",
+    "options": [
+      "do",
+      "make",
+      "take",
+      "perform"
+    ],
+    "answer_index": 1,
+    "rationale": "",
+    "irt": {
+      "model": "3PL",
+      "a": 1.0,
+      "b": -0.3,
+      "c": 0.2
+    },
+    "tags": [
+      "usage"
+    ]
+  },
+  {
+    "id": "g-b1+-03",
+    "type": "mcq",
+    "prompt": "Gerund/Infinitive: I look forward to ___ from you.",
+    "options": [
+      "hear",
+      "hearing",
+      "to hear",
+      "to hearing"
+    ],
+    "answer_index": 1,
+    "rationale": "",
+    "irt": {
+      "model": "3PL",
+      "a": 1.0,
+      "b": -0.3,
+      "c": 0.2
+    },
+    "tags": [
+      "usage",
+      "form-accuracy"
+    ]
+  }
+]

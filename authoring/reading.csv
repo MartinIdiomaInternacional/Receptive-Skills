@@ -1,0 +1,2 @@
+section,level,testlet_id,passage,id,type,prompt,option_0,option_1,option_2,option_3,answer_index,rationale,tags,irt_a,irt_b,irt_c,anchor,pretest
+# Example: reading,B2,r-b2-041,"The committee prioritized speed over completeness.",r-b2-041-q1,mcq,Which statement is supported?,They had unlimited time,They valued speed,They reduced scope,They ignored trade-offs,1,,main-idea,1.0,0.3,0.20,false,false

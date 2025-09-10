@@ -1,0 +1,2 @@
+section,level,id,type,prompt,option_0,option_1,option_2,option_3,answer_index,rationale,tags,irt_a,irt_b,irt_c,anchor,pretest
+# Example: grammar,B2,g-b2-041,mcq,Choose the best connector:,so,although,whereas,because,2,contrast connector,meaning;usage,1.0,0.3,0.20,false,false

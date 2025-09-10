@@ -1,0 +1,68 @@
+[
+  {
+    "id": "g-c1-01",
+    "type": "mcq",
+    "prompt": "Subtle meaning: The term ‘notwithstanding’ most closely means ___",
+    "options": [
+      "despite",
+      "except",
+      "according to",
+      "owing to"
+    ],
+    "answer_index": 0,
+    "rationale": "",
+    "irt": {
+      "model": "3PL",
+      "a": 1.0,
+      "b": 1.3,
+      "c": 0.2
+    },
+    "tags": [
+      "meaning"
+    ]
+  },
+  {
+    "id": "g-c1-02",
+    "type": "mcq",
+    "prompt": "Reduced clause: The document, ___ yesterday, is final.",
+    "options": [
+      "publishing",
+      "published",
+      "to publish",
+      "being publish"
+    ],
+    "answer_index": 1,
+    "rationale": "",
+    "irt": {
+      "model": "3PL",
+      "a": 1.0,
+      "b": 1.3,
+      "c": 0.2
+    },
+    "tags": [
+      "form-accuracy"
+    ]
+  },
+  {
+    "id": "g-c1-03",
+    "type": "mcq",
+    "prompt": "Idiomatic usage: We’ll need to ‘square the circle’ suggests ___",
+    "options": [
+      "an easy task",
+      "a paradoxical task",
+      "a circular method",
+      "a quick win"
+    ],
+    "answer_index": 1,
+    "rationale": "",
+    "irt": {
+      "model": "3PL",
+      "a": 1.0,
+      "b": 1.3,
+      "c": 0.2
+    },
+    "tags": [
+      "meaning"
+    ]
+  }
+]

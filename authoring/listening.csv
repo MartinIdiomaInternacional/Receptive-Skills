@@ -1,0 +1,2 @@
+section,level,testlet_id,audio_url,id,type,prompt,option_0,option_1,option_2,option_3,answer_index,rationale,tags,irt_a,irt_b,irt_c,anchor,pretest
+# Example: listening,B2,l-b2-041,/media/listening/b2/l-b2-041.wav,l-b2-041-q1,mcq,What is the main concern?,Costs,Timeline,Quality,Staffing,1,,gist,1.0,0.3,0.20,false,false
